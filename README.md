@@ -1,5 +1,11 @@
 # IPFS Pinning Aggregation
 
+## Status
+
+This repository is in a **frozen** state. It is not being maintained or kept in sync with the tools and libraries it builds on. Even though work on this repository has been **shelved**, anyone interested in updating or maintaining this project should express their interest on one Filecoin community conversation mediums: <https://github.com/filecoin-project/community#join-the-community>.
+
+---
+
 This suite provides a way to aggregate multiple pinning services, like they are one.
 It includes vanilla IPFS node pinning, as well as pinning to Filecoin via Powergate.
 
