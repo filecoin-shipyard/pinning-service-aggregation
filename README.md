@@ -2,7 +2,7 @@
 
 ## Status
 
-This repository is in a **frozen** state. It is not being maintained or kept in sync with the tools and libraries it builds on. Even though work on this repository has been **shelved**, anyone interested in updating or maintaining this project should express their interest on one Filecoin community conversation mediums: <https://github.com/filecoin-project/community#join-the-community>.
+This repository is in a **frozen** state. It is not being maintained or kept in sync with the tools and libraries it builds on. This package has now been largely integrated into <https://github.com/ceramicnetwork/js-ceramic> and is being maintained there. Even though work on this repository has been **shelved**, anyone interested in updating or maintaining this as a stand-alone project should express their interest on one Filecoin community conversation mediums: <https://github.com/filecoin-project/community#join-the-community>.
 
 ---
 
